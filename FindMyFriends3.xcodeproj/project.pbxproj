@@ -16,7 +16,7 @@
 		7814E5612188727800317545 /* FriendDownload.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7814E5602188727800317545 /* FriendDownload.swift */; };
 		7814E563218881DA00317545 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7814E562218881DA00317545 /* MapViewController.swift */; };
 		78498435218D821E00619EFE /* LogManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78498434218D821E00619EFE /* LogManager.swift */; };
-		78B5896421916781005C6ABA /* FriendLocationTableCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B5896321916781005C6ABA /* FriendLocationTableCollectionViewCell.swift */; };
+		78B58966219168F9005C6ABA /* FriendsLocationTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B58965219168F9005C6ABA /* FriendsLocationTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,7 +32,7 @@
 		7814E5602188727800317545 /* FriendDownload.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FriendDownload.swift; sourceTree = "<group>"; };
 		7814E562218881DA00317545 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		78498434218D821E00619EFE /* LogManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogManager.swift; sourceTree = "<group>"; };
-		78B5896321916781005C6ABA /* FriendLocationTableCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendLocationTableCollectionViewCell.swift; sourceTree = "<group>"; };
+		78B58965219168F9005C6ABA /* FriendsLocationTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FriendsLocationTableViewCell.swift; sourceTree = "<group>"; };
 		B54020147B783A09377A6EE4 /* Pods-FindMyFriends3.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FindMyFriends3.release.xcconfig"; path = "Pods/Target Support Files/Pods-FindMyFriends3/Pods-FindMyFriends3.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -83,8 +83,8 @@
 				7814E5532188425C00317545 /* Assets.xcassets */,
 				7814E55E218871B200317545 /* FirstPageTableViewController.swift */,
 				7814E5602188727800317545 /* FriendDownload.swift */,
-				78B5896321916781005C6ABA /* FriendLocationTableCollectionViewCell.swift */,
 				78498434218D821E00619EFE /* LogManager.swift */,
+				78B58965219168F9005C6ABA /* FriendsLocationTableViewCell.swift */,
 				7814E5552188425C00317545 /* LaunchScreen.storyboard */,
 				7814E5582188425C00317545 /* Info.plist */,
 				7814E562218881DA00317545 /* MapViewController.swift */,
@@ -214,7 +214,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				78B5896421916781005C6ABA /* FriendLocationTableCollectionViewCell.swift in Sources */,
+				78B58966219168F9005C6ABA /* FriendsLocationTableViewCell.swift in Sources */,
 				7814E55F218871B200317545 /* FirstPageTableViewController.swift in Sources */,
 				7814E54D2188425A00317545 /* AppDelegate.swift in Sources */,
 				7814E5612188727800317545 /* FriendDownload.swift in Sources */,
